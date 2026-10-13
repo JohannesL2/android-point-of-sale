@@ -1,5 +1,10 @@
 # POS Integration Architecture
 
+<img width="800" alt="Screenshot_20260429_103900" src="https://github.com/user-attachments/assets/a9a86f25-e60b-4fe6-985d-696a73eecf32" />
+
+<img width="800" alt="Screenshot_20260409_130111" src="https://github.com/user-attachments/assets/899877ab-7bae-4c4c-88f7-c128687b1ba3" />
+
+
 This repository contains a conceptual POS (Point of Sale) application demonstrating an integration architecture for payment terminals, receipt printing, and scanning.
 
 **We describe our project more in details and provide full documentation here:**
