@@ -1,4 +1,4 @@
-# POS Integration Architecture
+# POS Android app
 
 <img width="800" alt="Screenshot_20260429_103900" src="https://github.com/user-attachments/assets/a9a86f25-e60b-4fe6-985d-696a73eecf32" />
 
